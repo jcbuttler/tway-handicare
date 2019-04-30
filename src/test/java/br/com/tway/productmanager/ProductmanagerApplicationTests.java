@@ -1,4 +1,4 @@
-package br.com.tway.springboot.productmanager.productmanager;
+package br.com.tway.productmanager;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,6 +11,7 @@ public class ProductmanagerApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("junit");
 	}
 
 }
