@@ -1,4 +1,4 @@
-package br.com.tway.productmanager.job;
+package br.com.tway.handicare.job;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
