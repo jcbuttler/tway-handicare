@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class ProcessCsvJob {
 	@Scheduled(fixedRate = 1000)
 	public void aaa() {
-		System.out.println("teste");
+		System.out.println("teste3");
 	}
 }

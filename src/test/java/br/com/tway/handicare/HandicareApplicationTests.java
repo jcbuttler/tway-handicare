@@ -11,7 +11,7 @@ public class HandicareApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("junit");
+		System.out.println("junitttt");
 	}
 
 }
